@@ -12,6 +12,7 @@ import time
 from utils import *
 
 openai.api_key = openai_api_key
+openai.api_base = "http://localhost:5656/v1"
 
 def temp_sleep(seconds=0.1):
   time.sleep(seconds)
@@ -20,7 +21,7 @@ def ChatGPT_single_request(prompt):
   temp_sleep()
 
   completion = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo", 
+    model="gpt-3.5-turbo-1106", 
     messages=[{"role": "user", "content": prompt}]
   )
   return completion["choices"][0]["message"]["content"]
@@ -42,11 +43,11 @@ def GPT4_request(prompt):
   RETURNS: 
     a str of GPT-3's response. 
   """
-  temp_sleep()
+  temp_sleep(1)
 
   try: 
     completion = openai.ChatCompletion.create(
-    model="gpt-4", 
+    model="gpt-3.5-turbo-1106", 
     messages=[{"role": "user", "content": prompt}]
     )
     return completion["choices"][0]["message"]["content"]
@@ -206,10 +207,10 @@ def GPT_request(prompt, gpt_parameter):
   RETURNS: 
     a str of GPT-3's response. 
   """
-  temp_sleep()
+  temp_sleep(1)
   try: 
     response = openai.Completion.create(
-                model=gpt_parameter["engine"],
+                model="gpt-3.5-turbo-instruct",
                 prompt=prompt,
                 temperature=gpt_parameter["temperature"],
                 max_tokens=gpt_parameter["max_tokens"],
@@ -219,8 +220,9 @@ def GPT_request(prompt, gpt_parameter):
                 stream=gpt_parameter["stream"],
                 stop=gpt_parameter["stop"],)
     return response.choices[0].text
-  except: 
+  except Exception as error: 
     print ("TOKEN LIMIT EXCEEDED")
+    print ("error", error)
     return "TOKEN LIMIT EXCEEDED"
 
 
@@ -275,14 +277,17 @@ def safe_generate_response(prompt,
 
 def get_embedding(text, model="text-embedding-ada-002"):
   text = text.replace("\n", " ")
+  openai.api_base = "https://api.openai.com/v1"
   if not text: 
     text = "this is blank"
-  return openai.Embedding.create(
+  response = openai.Embedding.create(
           input=[text], model=model)['data'][0]['embedding']
+  openai.api_base = "http://localhost:5656/v1"
+  return response
 
 
 if __name__ == '__main__':
-  gpt_parameter = {"engine": "text-davinci-003", "max_tokens": 50, 
+  gpt_parameter = {"engine": "text-embedding-3-small", "max_tokens": 50, 
                    "temperature": 0, "top_p": 1, "stream": False,
                    "frequency_penalty": 0, "presence_penalty": 0, 
                    "stop": ['"']}
