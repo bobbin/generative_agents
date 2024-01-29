@@ -404,6 +404,9 @@ class ReverieServer:
             os.makedirs(curr_move_path)
           ###
           curr_move_file = f"{sim_folder}/movement/{self.step}.json"
+          # if the folder doesn't exist, we create it first.
+          if not os.path.exists(os.path.dirname(curr_move_file)):
+            os.makedirs(os.path.dirname(curr_move_file), exist_ok=True)
           with open(curr_move_file, "w") as outfile: 
             outfile.write(json.dumps(movements, indent=2))
 
