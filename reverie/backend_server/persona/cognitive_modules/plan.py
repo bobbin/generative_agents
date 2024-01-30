@@ -264,9 +264,17 @@ def generate_action_event_triple(act_desp, persona):
   return run_gpt_prompt_event_triple(act_desp, persona)[0]
 
 
-def generate_act_obj_desc(act_game_object, act_desp, persona): 
-  if debug: print ("GNS FUNCTION: <generate_act_obj_desc>")
-  return run_gpt_prompt_act_obj_desc(act_game_object, act_desp, persona)[0]
+def generate_act_obj_desc(act_game_object, act_desp, persona):
+    if debug:
+        print("GNS FUNCTION: <generate_act_obj_desc>")
+    result = run_gpt_prompt_act_obj_desc(act_game_object, act_desp, persona)
+    
+    if result is None:
+        # Manejar el caso en que no hay retorno válido
+        print("Error: run_gpt_prompt_act_obj_desc devolvió None")
+        return 'empty'  # o manejar de otra manera
+    else:
+        return result[0]
 
 
 def generate_act_obj_event_triple(act_game_object, act_obj_desc, persona): 

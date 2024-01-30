@@ -377,7 +377,7 @@ def run_gpt_prompt_task_decomp(persona,
         task = task[:-1]
       duration = int(k[1].split(",")[0].strip())
       cr += [[task, duration]]
-
+      
     total_expected_min = int(prompt.split("(total duration in minutes")[-1]
                                    .split("):")[0].strip())
     
@@ -387,13 +387,16 @@ def run_gpt_prompt_task_decomp(persona,
     for count, i in enumerate(cr): 
       i_task = i[0] 
       i_duration = i[1]
-
+      print ("i_task", i_task)
+      print ("i_duration", i_duration)
+      
       i_duration -= (i_duration % 5)
+      if i_duration == 0:
+        i_duration = 5
       if i_duration > 0: 
         for j in range(i_duration): 
           curr_min_slot += [(i_task, count)]       
     curr_min_slot = curr_min_slot[1:]   
-
     if len(curr_min_slot) > total_expected_min: 
       last_task = curr_min_slot[60]
       for i in range(1, 6): 
