@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ufffd f",
+      "description": "getting ready for bed (washing her face and brushing her teeth) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        87,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc40\ud83d\udd75\ufe0f",
+      "description": "searching for possible victims to feed on\n\n[(ID:Kf3dWp) Monday February 13 -- 01:00 AM] Activity: Maria is eating dinner\n\n[(ID:9gpxV9) Monday February 13 -- 10:00 PM] Activity: Maria is searching for possible victims to feed on\n\n[(ID:Kf3dWp) Monday February 13 -- 01:00 AM] Activity: Maria is eating dinner (scouting the area for potential victims) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcad",
+      "description": "getting ready for bed and reflecting on the day's accomplishments (reading a book) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:01:00"
+  }
+}

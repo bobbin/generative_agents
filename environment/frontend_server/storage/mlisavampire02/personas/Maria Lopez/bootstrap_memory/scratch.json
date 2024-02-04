@@ -1,0 +1,304 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 10:02:00",
+  "curr_tile": [
+    124,
+    52
+  ],
+  "daily_plan_req": " 1. Wake up and complete the morning routine at 9:00 PM, 2. Feed on blood from a friend or neighbor at 10:00 PM, 3. Spend 3 hours Twitch streaming or gaming from 11:00 PM to 2:00 AM, 4. Study physics at Oak Hill College from 2:00 AM to 6:00 AM, 5. Look for possible victims to feed on before going to bed at 6:30 AM.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a vampire at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and find possible victims.",
+  "currently": " Status: Maria Lopez is working on her physics degree and preparing for her meeting with Klaus Mueller to discuss their research project on the effects of gentrification in low-income communities. She plans to reach out to Klaus to set a definite time and location for their meeting at the Oak Hill College library.",
+  "lifestyle": "Maria Lopez goes to bed around 7am, awakes up around 9pm, eats dinner around 1am. She likes to eat blood from their friends and neighbours.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 144,
+  "importance_ele_n": 4,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to Oak Hill College for physics class at 10:00 am",
+    "study at Hobbs Cafe and have lunch at 1:00 pm",
+    "Twitch stream or game from 4:00 pm to 7:00 pm",
+    "search for possible victims to feed on from 7:00 pm onwards",
+    "eat dinner around 1am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "sleeping\n[(ID:J3qk9T) Tuesday February 14 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine\n[(ID:G2R5vN) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:K4R7bT) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:R6T5bT) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:U5T6bT) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:Y7T8bT) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:I9T0bT) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:O2T2bT) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:W4T4bT) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:R6T6bT) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:U8T8bT) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Y0T0bT) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:I2T2bT) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:O4T4bT) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:W6T6bT) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:R8T8bT) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (making breakfast)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (checking her phone for any messages)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (grabbing her bag and keys)",
+      5
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (waking up and completing her morning routine)",
+      30
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (getting dressed for school)",
+      10
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (packing her bag with her physics materials)",
+      5
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (checking her schedule for the day)",
+      5
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (grabbing a quick snack before heading out)",
+      10
+    ],
+    [
+      "studying physics at Oak Hill College\n[(ID:1yR6t8) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:2zE5r7) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:3aW4t6) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:4bV3s5) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:5cU2r4) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:6dT1q3) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:7eS0p2) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:8fR9o1) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:9gQ8n0) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:0hP7m9) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:1iO6l8) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:2jN5k7) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:3kM4j6) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying physics at Oak Hill College\n[(ID:Rgnwih) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:Shoxij) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:Tjpakl) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:Ukqblm) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Vlrcmn) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Wmsdno) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Xntepo) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Youfqp) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Zpvgrq) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:aqwzsr) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:brx0ts) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:csy1ut) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe and having lunch\n[(ID:lm8KDC) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:no9KDC) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:op0KDC) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:qr1KDC) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:st2KDC) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:uv3KDC) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:wx4KDC) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:yz5KDC) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:zA6KDC) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:B7KDC) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:C8KDC) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe and having lunch\n[(ID:sN9ZOH) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:tO0API) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:uP1BQJ) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:vQ2CRK) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:wR3DSL) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:xS4ETM) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:yT5FUN) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:zU6GVO) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:A7HWP) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:B8IXQ) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe\n[(ID:KpYRiG) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:JqXSkH) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:IrWTLI) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:HsXUMJ) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:GtYVNK) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:FsWOL) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:ErXPM) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:DqZQN) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:CpYRO) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:dSgjgY) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:eThkhZ) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:fUil1A) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:gVjm2B) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:hWkn3C) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:iXlo4D) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:jYmp5E) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:kZnq6F) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:7gJ3Ks) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:fvFZMX) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:gwGaNY) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:hxHbNZ) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:iyIcOA) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:jzJdPB) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:kAKeQC) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:RrQvTe) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:SsRwUf) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:VtRxVg) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:WuSyWh) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:XvTzXi) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:KkE282) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:LlF393) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:MmG404) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:NnH515) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:lKkQIK) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:mLlRJL) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:nMmSKM) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "feeding on blood from a friend or neighbor\n[(ID:uwp3s4) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:xap3s5) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:ZGDCxn) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "sleeping\n[(ID:J3qk9T) Tuesday February 14 -- 09:00 AM] Activity: Maria is waking up and completing her morning routine\n[(ID:G2R5vN) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:K4R7bT) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:R6T5bT) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:U5T6bT) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:Y7T8bT) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:I9T0bT) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:O2T2bT) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:W4T4bT) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:R6T6bT) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:U8T8bT) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Y0T0bT) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:I2T2bT) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:O4T4bT) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:W6T6bT) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:R8T8bT) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:39BNGE) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:49BNGE) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:59BNGE) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:69BNGE) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:79BNGE) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:89BNGE) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:99BNGE) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:09BNGE) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:19BNGE) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying physics at Oak Hill College\n[(ID:1yR6t8) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:2zE5r7) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:3aW4t6) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:4bV3s5) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:5cU2r4) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:6dT1q3) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:7eS0p2) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:8fR9o1) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:9gQ8n0) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:0hP7m9) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:1iO6l8) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:2jN5k7) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:3kM4j6) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying physics at Oak Hill College\n[(ID:Rgnwih) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:Shoxij) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:Tjpakl) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:Ukqblm) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Vlrcmn) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Wmsdno) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:Xntepo) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Youfqp) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:Zpvgrq) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:aqwzsr) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:brx0ts) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:csy1ut) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe and having lunch\n[(ID:lm8KDC) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:no9KDC) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:op0KDC) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:qr1KDC) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:st2KDC) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:uv3KDC) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:wx4KDC) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:yz5KDC) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:zA6KDC) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:B7KDC) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:C8KDC) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe and having lunch\n[(ID:sN9ZOH) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:tO0API) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:uP1BQJ) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:vQ2CRK) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:wR3DSL) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:xS4ETM) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:yT5FUN) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:zU6GVO) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:A7HWP) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:B8IXQ) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "studying at Hobbs Cafe\n[(ID:KpYRiG) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:JqXSkH) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:IrWTLI) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:HsXUMJ) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:GtYVNK) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:FsWOL) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:ErXPM) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:DqZQN) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:CpYRO) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:dSgjgY) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:eThkhZ) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:fUil1A) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:gVjm2B) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:hWkn3C) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:iXlo4D) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:jYmp5E) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:kZnq6F) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:7gJ3Ks) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:89BNGE) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:99BNGE) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:09BNGE) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:19BNGE) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:29BNGE) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:fvFZMX) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:gwGaNY) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:hxHbNZ) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:iyIcOA) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:jzJdPB) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:kAKeQC) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:RrQvTe) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:SsRwUf) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:VtRxVg) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:WuSyWh) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:XvTzXi) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:KkE282) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:LlF393) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:MmG404) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:NnH515) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "searching for possible victims to feed on\n[(ID:lKkQIK) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:mLlRJL) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:nMmSKM) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "feeding on blood from a friend or neighbor\n[(ID:uwp3s4) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:xap3s5) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ],
+    [
+      "Twitch streaming or gaming\n[(ID:ZGDCxn) Tuesday February 14 -- 12:00 AM] Activity: Maria is eating dinner",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:closet",
+  "act_start_time": "February 14, 2023, 09:57:00",
+  "act_duration": 5,
+  "act_description": "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (grabbing her bag and keys)",
+  "act_pronunciatio": "\ufffd b",
+  "act_event": [
+    "Maria Lopez",
+    "grab",
+    "bag and keys"
+  ],
+  "act_obj_description": "being used by Maria to grab her bag and keys",
+  "act_obj_pronunciatio": "\u270b\ufe0f\ud83c\udf92",
+  "act_obj_event": [
+    "closet",
+    "use",
+    "Maria"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -27
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      124,
+      53
+    ],
+    [
+      124,
+      54
+    ],
+    [
+      123,
+      54
+    ]
+  ]
+}

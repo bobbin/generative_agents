@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83c\udf39\ufffd\u043a",
+      "description": "busy with Valentine's Day preparations\n[(ID:qKp0mw) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to work on Valentine's Day decorations and special menu items\n[(ID:sKp0lw) Tuesday February 14 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe during lunchtime\n[(ID:uKp0kw) Tuesday February 14 -- 01:00 PM] Activity: Isabella is busy with Valentine's Day preparations\n[(ID:wKp0jw) Tuesday February 14 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:yKp0iw) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to work on Valentine's Day decorations and special menu items\n[(ID:0Kp0hw) Tuesday February 14 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:2Kp0gw) Tuesday February 14 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party\n[(ID:4Kp0fw) Tuesday February 14 -- 06:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe\n[(ID:6Kp0ew) Tuesday February 14 -- 07:00 PM] Activity: Isabella is cleaning up after the Valentine's Day party\n[(ID:8Kp0dw) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing the cafe and preparing for the next day (continuing to work on Valentine's Day decorations) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83c\udfb2\ud83d\udc49\ud83c\udffd",
+      "description": "streaming games on Twitch\n[(ID:Rb8aP4) Tuesday February 14 -- 10:00 AM] Activity: Maria is streaming games on Twitch\n[(ID:Q3Km8S) Tuesday February 14 -- 11:00 AM] Activity: Maria is streaming games on Twitch\n[(ID:J1L9T3) Tuesday February 14 -- 12:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:K2Pn9U) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:M4Lk0P) Tuesday February 14 -- 02:00 PM] Activity: Maria is having a coffee meeting with Klaus Mueller at Hobbs Cafe\n[(ID:O1Pn5T) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:Z1Km8U) Tuesday February 14 -- 04:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:Y1Lm2I) Tuesday February 14 -- 05:00 PM] Activity: Maria is visiting Hobbs Cafe for a meal\n[(ID:W2Pm9O) Tuesday February 14 -- 06:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:V4Lk1P) Tuesday February 14 -- 07:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:T3Km9T) Tuesday February 14 -- 08:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:U1Lm2U) Tuesday February 14 -- 09:00 PM] Activity: Maria is streaming games on Twitch\n[(ID:S2Pm9I) Tuesday February 14 -- 10:00 PM] Activity: Maria is searching for potential victims to feed on\n[(ID:Q4Lk1O) Tuesday February 14 -- 11:00 PM] Activity: Maria is searching for potential victims to feed on (continuing to play the game and interact with her audience) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83d\udcad",
+      "description": "still working on his research paper on gentrification at the library (writing the introduction for the paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:01:00"
+  }
+}

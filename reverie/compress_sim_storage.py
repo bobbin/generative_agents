@@ -4,6 +4,8 @@ Author: Joon Sung Park (joonspk@stanford.edu)
 File: compress_sim_storage.py
 Description: Compresses a simulation for replay demos. 
 """
+import sys
+
 import shutil
 import json
 from global_methods import *
@@ -60,7 +62,11 @@ def compress(sim_code):
 
 
 if __name__ == '__main__':
-  compress("July1_the_ville_isabella_maria_klaus-step-3-9")
+    if len(sys.argv) > 1:
+        sim_name = sys.argv[1]
+        compress(sim_name)
+    else:
+        print("Por favor, proporciona el nombre de la simulación como un argumento.")
 
 
 

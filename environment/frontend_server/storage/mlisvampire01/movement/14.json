@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udeaa\ud83d\udd13",
+      "description": "closing Hobbs Cafe\n\nPlease note that there may be some discrepancies in the schedule due to multiple entries for the same time slot @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing the effects of gentrification in low-income communities, with Maria expressing interest in Klaus' research paper and planning to meet up for coffee to discuss further @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what book are you reading? It looks interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm currently reading a book on the effects of gentrification in low-income communities. It's really fascinating."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting! I've always been curious about social justice issues. Do you mind if I join you and learn more about it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'd love to discuss it with you. Gentrification is a complex issue that affects many communities."
+        ],
+        [
+          "Maria Lopez",
+          "That's really interesting, Klaus. I'd love to hear more about your thoughts on how gentrification impacts different social groups."
+        ],
+        [
+          "Klaus Mueller",
+          "I think one of the key aspects of gentrification is the displacement of long-time residents and the loss of community identity. It's a really important issue that needs more attention."
+        ],
+        [
+          "Maria Lopez",
+          "That's a really insightful perspective, Klaus. I completely agree with you on the impact of gentrification on community identity and the displacement of residents. It's a topic that definitely needs more awareness and action."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on a research paper on the effects of gentrification in low-income communities. Would you be interested in reading it once it's completed?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fascinating research paper, Klaus. I would love to read it once it's completed. I think it's important to raise awareness about the impact of gentrification on communities."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in the topic. Maybe we can grab coffee sometime and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus. I would love to grab coffee and discuss your research paper further."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's plan to meet up next week for coffee and discuss it further. How about Thursday afternoon?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect, Klaus. I'm looking forward to our coffee meeting next Thursday afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll send you a message to confirm the details. Looking forward to our coffee meeting!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I'm really excited to read your research paper and discuss it further over coffee next Thursday afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll send you a message to confirm the details. Looking forward to our coffee meeting!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about discussing the effects of gentrification in low-income communities, with Maria expressing interest in Klaus' research paper and planning to meet up for coffee to discuss further @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what book are you reading? It looks interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm currently reading a book on the effects of gentrification in low-income communities. It's really fascinating."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting! I've always been curious about social justice issues. Do you mind if I join you and learn more about it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'd love to discuss it with you. Gentrification is a complex issue that affects many communities."
+        ],
+        [
+          "Maria Lopez",
+          "That's really interesting, Klaus. I'd love to hear more about your thoughts on how gentrification impacts different social groups."
+        ],
+        [
+          "Klaus Mueller",
+          "I think one of the key aspects of gentrification is the displacement of long-time residents and the loss of community identity. It's a really important issue that needs more attention."
+        ],
+        [
+          "Maria Lopez",
+          "That's a really insightful perspective, Klaus. I completely agree with you on the impact of gentrification on community identity and the displacement of residents. It's a topic that definitely needs more awareness and action."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on a research paper on the effects of gentrification in low-income communities. Would you be interested in reading it once it's completed?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fascinating research paper, Klaus. I would love to read it once it's completed. I think it's important to raise awareness about the impact of gentrification on communities."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad you're interested in the topic. Maybe we can grab coffee sometime and discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus. I would love to grab coffee and discuss your research paper further."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's plan to meet up next week for coffee and discuss it further. How about Thursday afternoon?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect, Klaus. I'm looking forward to our coffee meeting next Thursday afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll send you a message to confirm the details. Looking forward to our coffee meeting!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I'm really excited to read your research paper and discuss it further over coffee next Thursday afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll send you a message to confirm the details. Looking forward to our coffee meeting!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:14:00"
+  }
+}

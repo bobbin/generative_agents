@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        15
+      ],
+      "pronunciatio": "\ud83d\udcaa\ud83c\udfcb\ufe0f",
+      "description": "wrapping up the party and closing Hobbs Cafe\n[(ID:egkqXt) Monday February 13 -- 09:00 PM] Activity: Isabella is heading home and winding down for the day\n[(ID:fhlrYu) Monday February 13 -- 10:00 PM] Activity: Isabella is getting ready for bed\n[(ID:gimsZv) Monday February 13 -- 11:00 PM] Activity: Isabella is going to sleep, ready to start a new day tomorrow @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are conversing about collaborating on a research project regarding the effects of gentrification in low-income communities, and plan to meet at the library to discuss their different perspectives and relevant materials. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what are you working on? Your research notes look interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on a research paper about the effects of gentrification in low-income communities. It's a topic I'm really passionate about."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I would love to hear more about your research and maybe even collaborate on a project together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I would love to discuss my research with you further and see how we can collaborate on a project together."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! Maybe we can meet up later this week to discuss it further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! How about we meet at the library tomorrow afternoon to go over the details?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at the library tomorrow afternoon!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my research notes and any relevant articles for us to discuss tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I look forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring some snacks for us to enjoy while we discuss our project."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect! I'll be sure to bring my laptop and any relevant research articles as well. Looking forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're collaborating on this project, Maria. I think our different perspectives will bring a lot to the table."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited to see how our collaboration unfolds and the impact we can make together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're collaborating on this project, Maria. I think our different perspectives will bring a lot to the table."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are conversing about collaborating on a research project regarding the effects of gentrification in low-income communities, and plan to meet at the library to discuss their different perspectives and relevant materials. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, what are you working on? Your research notes look interesting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on a research paper about the effects of gentrification in low-income communities. It's a topic I'm really passionate about."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating! I would love to hear more about your research and maybe even collaborate on a project together."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I would love to discuss my research with you further and see how we can collaborate on a project together."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! Maybe we can meet up later this week to discuss it further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! How about we meet at the library tomorrow afternoon to go over the details?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at the library tomorrow afternoon!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my research notes and any relevant articles for us to discuss tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I look forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring some snacks for us to enjoy while we discuss our project."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds perfect! I'll be sure to bring my laptop and any relevant research articles as well. Looking forward to our meeting tomorrow afternoon at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're collaborating on this project, Maria. I think our different perspectives will bring a lot to the table."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited to see how our collaboration unfolds and the impact we can make together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're collaborating on this project, Maria. I think our different perspectives will bring a lot to the table."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:14:00"
+  }
+}

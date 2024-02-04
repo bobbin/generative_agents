@@ -328,8 +328,9 @@
 	    repeat: -1 });
 	}
 
-
+	var flush_counter = 0;
 	function update(time, delta) {
+		if(flush_counter < 10){ flush_counter += 1; return ; } else{ flush_counter = 0; }
 		// *** SETUP PLAY AND PAUSE BUTTON *** 
 		let play_context = this;
 		function game_resume() {  

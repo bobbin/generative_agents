@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\udc49",
+      "description": "waking up and completing her morning routine at 6:00 am\n[(ID:9aGvzP) Tuesday February 14 -- 07:00 AM] Activity: Isabella is getting ready to open Hobbs Cafe at 8:00 am\n[(ID:Yb3uKw) Tuesday February 14 -- 08:00 AM] Activity: Isabella is opening Hobbs Cafe and starting her work day\n[(ID:RbWz4o) Tuesday February 14 -- 09:00 AM] Activity: Isabella is serving customers and managing the cafe\n[(ID:Zm8Z1n) Tuesday February 14 -- 10:00 AM] Activity: Isabella is busy with Valentine's Day preparations\n[(ID:Vn7Lc1) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to work on Valentine's Day decorations and special menu items\n[(ID:uTlG2m) Tuesday February 14 -- 12:00 PM] Activity: Isabella is serving customers and managing the cafe during lunchtime\n[(ID:1V3zZv) Tuesday February 14 -- 01:00 PM] Activity: Isabella is busy with Valentine's Day preparations\n[(ID:Jk4z8t) Tuesday February 14 -- 02:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:4m2zQr) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to work on Valentine's Day decorations and special menu items\n[(ID:4E9z9P) Tuesday February 14 -- 04:00 PM] Activity: Isabella is serving customers and managing the cafe\n[(ID:8W9z7t) Tuesday February 14 -- 05:00 PM] Activity: Isabella is preparing for the Valentine's Day party\n[(ID:7W9z6r) Tuesday February 14 -- 06:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe\n[(ID:6W9z5P) Tuesday February 14 -- 07:00 PM] Activity: Isabella is cleaning up after the Valentine's Day party\n[(ID:5W9z4t) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing the cafe and preparing for the next day\n[(ID:3W9z2r) Tuesday February 14 -- 09:00 PM] Activity: Isabella is checking inventory and organizing the refrigerator\n[(ID:2W9z1P) Tuesday February 14 -- 10:00 PM] Activity: Isabella is locking up securely and setting her alarm for the next day\n[(ID:1W9z0t) Tuesday February 14 -- 11:00 PM] Activity: Isabella is getting ready for bed and feeling accomplished after a busy day at Hobbs Cafe (making herself a cup of coffee) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 06:27:00"
+  }
+}

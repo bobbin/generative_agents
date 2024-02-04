@@ -1,0 +1,857 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 21:08:10",
+  "curr_tile": [
+    75,
+    14
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Isabella Rodriguez is planning on having a Valentine's Day party at Hobbs Cafe with her customers on February 14th, 2023 at 5pm. She is gathering party material, and is telling everyone to join the party at Hobbs Cafe on February 14th, 2023, from 5pm to 7pm.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 92,
+  "importance_ele_n": 56,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter and prepare for the Valentine's Day party at 5:00 pm",
+    "invite customers to the party throughout the day",
+    "close the cafe at 8:00 pm",
+    "have dinner at 8:30 pm",
+    "relax and watch TV from 9:00 pm until 10:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine (turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (changing into her work clothes)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (making breakfast and coffee)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (checking her phone for any important messages or notifications)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting her bag ready for work)",
+      5
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (checking the inventory and making a list of items that need to be restocked)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (checking the schedule for the day and making any necessary adjustments)",
+      10
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (checking the weather forecast and making any necessary preparations)",
+      5
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (setting up the counter and making sure all equipment is working properly)",
+      15
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (preparing the special Valentine's Day decorations and setting them up around the cafe)",
+      15
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe (taking a quick break to have a cup of coffee and check her emails)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (unlocking the doors to Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (turning on the lights and music in the cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (checking the inventory and restocking any items that are low)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (setting up the counter and display cases with fresh pastries and drinks)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (checking the reservation list for the Valentine's Day party and making sure everything is in order)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day (greeting customers as they come in and taking their orders)",
+      15
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (checking inventory and making a list of items needed for the party)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (placing an order for any needed items)",
+      10
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (setting up decorations for the party)",
+      15
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (preparing the special Valentine's Day menu)",
+      20
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party (taking a break)",
+      5
+    ],
+    [
+      "still working at the counter and preparing for the party (ordering decorations)",
+      20
+    ],
+    [
+      "still working at the counter and preparing for the party (ordering food for the party)",
+      30
+    ],
+    [
+      "still working at the counter and preparing for the party (setting up tables and chairs)",
+      15
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing coffee and tea)",
+      20
+    ],
+    [
+      "still working at the counter and preparing for the party (on the way to making sandwiches for the party)",
+      0
+    ],
+    [
+      "still working at the counter and preparing for the party (conversing about discussing plans for Valentine's Day at Hobbs Cafe, with Isabella proposing a party and Maria offering help with decorations and menu)",
+      13
+    ],
+    [
+      "still working at the counter and preparing for the party (making sandwiches for the party)",
+      15
+    ],
+    [
+      "still working at the counter and preparing for the party (setting up a dessert table)",
+      15
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing the register and cash box)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (on the way to making sure the bathrooms are clean)",
+      0
+    ],
+    [
+      "still working at the counter and preparing for the party (conversing about conversing about preparations for a Valentine's Day party, including setting up a dessert table, inviting Klaus Mueller and his friends, and discussing the special menu and decorations for the party.)",
+      9
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe is clean and tidy)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a welcome sign for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the music is set up)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a drink station for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's Wi-Fi is working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a seating chart for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's sound system is working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a gift table for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's lighting is working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a sign-in sheet for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's heating and cooling systems are working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a thank you note for her customers)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's emergency exits are clear)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a welcome message for her customers)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's fire extinguisher is accessible)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a menu for the party)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (on the way to making sure the cafe's water dispenser is working)",
+      0
+    ],
+    [
+      "still working at the counter and preparing for the party (conversing about discussing Klaus bringing friends to Isabella's Valentine's Day party at Hobbs Cafe and coordinating dietary restrictions for the menu)",
+      13
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's water dispenser is working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a thank you speech for her customers)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's trash cans are emptied)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing a thank you card for her employees)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the cafe's emergency lights are working)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (checking the inventory of party supplies)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making a list of any missing party supplies)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (ordering any missing party supplies)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (checking the cafe's emergency lights)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (making sure the emergency lights are working properly)",
+      10
+    ],
+    [
+      "still working at the counter and preparing for the party (organizing the party decorations)",
+      20
+    ],
+    [
+      "still working at the counter and preparing for the party (setting up tables and chairs for the party)",
+      20
+    ],
+    [
+      "still working at the counter and preparing for the party (on the way to preparing the food and drinks for the party)",
+      0
+    ],
+    [
+      "still working at the counter and preparing for the party (conversing about discussing Valentine's Day party preparations, including dietary restrictions and Klaus sharing research findings on gentrification and community cohesion)",
+      13
+    ],
+    [
+      "still working at the counter and preparing for the party (preparing the food and drinks for the party)",
+      7
+    ],
+    [
+      "having dinner (setting the table for dinner)",
+      10
+    ],
+    [
+      "having dinner (cooking dinner)",
+      30
+    ],
+    [
+      "having dinner (plating the food)",
+      5
+    ],
+    [
+      "having dinner (pouring drinks)",
+      5
+    ],
+    [
+      "having dinner (sitting down to eat)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party (cleaning and wiping down the tables and chairs)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party (restocking the coffee and tea supplies)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party (checking the inventory and making a list of items to restock)",
+      15
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party (organizing the party decorations and setting them up)",
+      20
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party (taking a break)",
+      5
+    ],
+    [
+      "having dinner (setting the table for dinner)",
+      10
+    ],
+    [
+      "having dinner (cooking dinner)",
+      30
+    ],
+    [
+      "having dinner (plating the food)",
+      5
+    ],
+    [
+      "having dinner (pouring drinks)",
+      5
+    ],
+    [
+      "having dinner (sitting down to eat)",
+      10
+    ],
+    [
+      "relaxing and watching TV (changing into comfortable clothes)",
+      5
+    ],
+    [
+      "relaxing and watching TV (making a cup of tea)",
+      5
+    ],
+    [
+      "relaxing and watching TV (turning on the TV)",
+      5
+    ],
+    [
+      "relaxing and watching TV (browsing through channels to find something to watch)",
+      10
+    ],
+    [
+      "relaxing and watching TV (settling on a romantic comedy movie)",
+      5
+    ],
+    [
+      "relaxing and watching TV (getting a blanket to snuggle under)",
+      5
+    ],
+    [
+      "relaxing and watching TV (checking her phone for any messages or notifications)",
+      5
+    ],
+    [
+      "relaxing and watching TV (sipping on her tea while watching the movie)",
+      15
+    ],
+    [
+      "relaxing and watching TV (getting up to refill her tea)",
+      5
+    ],
+    [
+      "getting ready for bed (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "getting ready for bed (changing into her pajamas)",
+      5
+    ],
+    [
+      "getting ready for bed (setting her alarm for the next day)",
+      5
+    ],
+    [
+      "getting ready for bed (checking her phone for any urgent messages or emails)",
+      10
+    ],
+    [
+      "getting ready for bed (tidying up her bedroom)",
+      10
+    ],
+    [
+      "getting ready for bed (reading a book or magazine to wind down)",
+      15
+    ],
+    [
+      "getting ready for bed (turning off the lights and getting into bed)",
+      5
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "preparing for the day and getting ready to open Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe and starting her work day",
+      60
+    ],
+    [
+      "working at the counter and preparing for the Valentine's Day party",
+      60
+    ],
+    [
+      "still working at the counter and preparing for the party",
+      480
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and getting ready for the party",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing and watching TV",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+  "act_start_time": "February 13, 2023, 21:05:00",
+  "act_duration": 5,
+  "act_description": "relaxing and watching TV (making a cup of tea)",
+  "act_pronunciatio": "\u2615\ufe0f\ud83c\udf75",
+  "act_event": [
+    "Isabella Rodriguez",
+    "make",
+    "cup of tea"
+  ],
+  "act_obj_description": "open or closed, with some items possibly being taken out or put in",
+  "act_obj_pronunciatio": "\ud83d\udeaa\ud83d\udcf1",
+  "act_obj_event": [
+    "refrigerator",
+    "be",
+    "open or closed"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -2707,
+    "Klaus Mueller": -451
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

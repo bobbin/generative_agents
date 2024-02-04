@@ -11,20 +11,23 @@ Variables:
 
 <commentblockmarker>###</commentblockmarker>
 Jane Anderson is in kitchen in Jane Anderson's house.
-Jane Anderson is going to Jane Anderson's house that has the following areas: {kitchen,  bedroom, bathroom}
+Jane Anderson is going to Jane Anderson's house that has ONLY the following areas available: {kitchen,  bedroom, bathroom}
 Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
 For cooking, Jane Anderson should go to the following area in Jane Anderson's house:
+Answer with the area in this format: {area}
 Answer: {kitchen}
 ---
 Tom Watson is in common room in Tom Watson's apartment. 
-Tom Watson is going to Hobbs Cafe that has the following areas: {cafe}
+Tom Watson is going to Hobbs Cafe that has ONLY the following areas available: {cafe}
 Stay in the current area if the activity can be done there. Never go into other people's rooms unless necessary.
 For getting coffee, Tom Watson should go to the following area in Hobbs Cafe:
+Answer with the area in this format: {area}
 Answer: {cafe}
 ---
 
-!<INPUT 0>! is going to !<INPUT 1>! that has the following areas: {!<INPUT 2>!}
+!<INPUT 0>! is going to !<INPUT 1>! that has ONLY the following areas available: {!<INPUT 2>!}
 * Stay in the current area if the activity can be done there. 
 * NEVER go into other people's rooms unless necessary.
-!<INPUT 3>! is !<INPUT 4>!. For !<INPUT 5>!, !<INPUT 6>! should go to the following area in !<INPUT 7>! (MUST pick one of {!<INPUT 8>!}):
+!<INPUT 3>! is !<INPUT 4>!. For !<INPUT 5>!, !<INPUT 6>! should go to the following area in !<INPUT 7>! (it's VERY IMPORTANT to ALWAYS pick ONLY one of the following areas because there's no other area available right now): {!<INPUT 8>!}):
+Answer with the area in this format: {area}
 Answer: {

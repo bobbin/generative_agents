@@ -1,0 +1,312 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 10:01:00",
+  "curr_tile": [
+    119,
+    22
+  ],
+  "daily_plan_req": " 1. Wake up and complete the morning routine at 7:00 am. 2. Arrive at Oak Hill College library at 8:00 am to prepare for the meeting with Maria Lopez. 3. Have a working lunch with Maria Lopez at Hobbs Cafe at 12:00 pm to discuss their research project and exchange notes. ",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": " Status: Klaus Mueller is looking forward to his meeting with Maria Lopez at the Oak Hill College library today, Tuesday February 14, to discuss their research project on the effects of gentrification in low-income communities. He plans to continue working on his individual research paper and will bring all necessary materials and notes with him to the library. Date: Tuesday February 14, Time: Meeting with Maria Lopez at the Oak Hill College library is presumably during the college's library hours, Location: Oak Hill College library.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 118,
+  "importance_ele_n": 9,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College at 8:00 am",
+    "spend the day writing his research paper on gentrification",
+    "eat lunch at Hobbs Cafe at 1:00 pm",
+    "continue working on his research paper",
+    "have dinner at 6:00 pm",
+    "finish up any remaining work and relax in the evening"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (brushing his teeth)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (washing his face)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (making breakfast)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead (eating breakfast)",
+      10
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities (reviewing his research proposal)",
+      10
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities (organizing his notes and research materials)",
+      15
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities (creating an outline for the meeting with Maria Lopez)",
+      10
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities (reviewing relevant articles and studies on gentrification)",
+      15
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities (preparing questions for Maria Lopez)",
+      10
+    ],
+    [
+      "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow (reviewing his research notes)",
+      15
+    ],
+    [
+      "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow (analyzing data for his research project)",
+      20
+    ],
+    [
+      "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow (writing his findings for the research paper)",
+      25
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic (reviewing his research notes)",
+      10
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic (organizing his data and findings)",
+      15
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic (writing the analysis section of his research paper)",
+      20
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic (taking a short break to stretch and grab a drink)",
+      10
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic (reviewing his progress and making a plan for the next steps in his research)",
+      5
+    ],
+    [
+      "taking a break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez",
+      60
+    ],
+    [
+      "having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "back at the Oak Hill College library, continuing to work on his research paper. He is focused and determined to make progress before his meeting with Maria Lopez",
+      60
+    ],
+    [
+      "deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress",
+      120
+    ],
+    [
+      "wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress",
+      120
+    ],
+    [
+      "having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow",
+      60
+    ],
+    [
+      "unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research",
+      60
+    ],
+    [
+      "reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community",
+      60
+    ],
+    [
+      "winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing his morning routine. He is getting ready for his day ahead",
+      60
+    ],
+    [
+      "at the Oak Hill College library, preparing for his meeting with Maria Lopez. He is reviewing his notes and gathering materials for their research project on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow",
+      60
+    ],
+    [
+      "still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic",
+      60
+    ],
+    [
+      "taking a break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez",
+      60
+    ],
+    [
+      "having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project on the effects of gentrification in low-income communities",
+      60
+    ],
+    [
+      "back at the Oak Hill College library, continuing to work on his research paper. He is focused and determined to make progress before his meeting with Maria Lopez",
+      60
+    ],
+    [
+      "deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress",
+      120
+    ],
+    [
+      "wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress",
+      120
+    ],
+    [
+      "having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow",
+      60
+    ],
+    [
+      "unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research",
+      60
+    ],
+    [
+      "reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community",
+      60
+    ],
+    [
+      "winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Oak Hill College:library:library table",
+  "act_start_time": "February 14, 2023, 09:37:00",
+  "act_duration": 25,
+  "act_description": "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow (writing his findings for the research paper)",
+  "act_pronunciatio": "\u270d\ufe0f\ud83d\udcdd",
+  "act_event": [
+    "Klaus Mueller",
+    "write",
+    "findings"
+  ],
+  "act_obj_description": "being used throughout the day by Klaus Mueller for his research work",
+  "act_obj_pronunciatio": "\ud83d\udcbb\ud83d\udd2c",
+  "act_obj_event": [
+    "library table",
+    "use",
+    "Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -27
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

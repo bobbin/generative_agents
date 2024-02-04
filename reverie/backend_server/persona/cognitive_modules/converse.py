@@ -52,8 +52,12 @@ def generate_summarize_agent_relationship(init_persona,
 
   summarized_relationship = run_gpt_prompt_agent_chat_summarize_relationship(
                               init_persona, target_persona,
-                              all_embedding_key_str)[0]
-  return summarized_relationship
+                              all_embedding_key_str)
+  # devolver summarized_relationship[0] si no es None
+  if summarized_relationship[0] is None:
+    return ""
+  else:
+    return summarized_relationship[0]
 
 
 def generate_agent_chat(maze, 

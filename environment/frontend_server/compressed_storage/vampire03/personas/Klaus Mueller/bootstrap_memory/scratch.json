@@ -1,0 +1,785 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 21:08:10",
+  "curr_tile": [
+    114,
+    51
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 81,
+  "importance_ele_n": 38,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "go to the library at Oak Hill College from 8:00 am to 12:00 pm",
+    "have lunch at Hobbs Cafe at 12:00 pm",
+    "continue research and writing at the library from 1:00 pm to 4:00 pm",
+    "take a break and grab a coffee or snack at 4:00 pm",
+    "return to the library to finish any remaining work from 4:30 pm to 6:00 pm",
+    "have dinner either at the library or at home around 6:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine (turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (making his bed)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (using the bathroom)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (taking a shower)",
+      15
+    ],
+    [
+      "waking up and completing morning routine (getting dressed)",
+      5
+    ],
+    [
+      "waking up and completing morning routine (making breakfast)",
+      15
+    ],
+    [
+      "at the library at Oak Hill College (walking to the library)",
+      5
+    ],
+    [
+      "at the library at Oak Hill College (setting up his laptop and materials at a study desk)",
+      10
+    ],
+    [
+      "at the library at Oak Hill College (checking his email and responding to any urgent messages)",
+      10
+    ],
+    [
+      "at the library at Oak Hill College (reviewing his research notes and organizing them)",
+      15
+    ],
+    [
+      "at the library at Oak Hill College (taking a short break to stretch and get a drink of water)",
+      5
+    ],
+    [
+      "at the library at Oak Hill College (starting to write his research paper)",
+      15
+    ],
+    [
+      "researching and writing at the library (reviewing his research topic and objectives)",
+      10
+    ],
+    [
+      "researching and writing at the library (searching for relevant sources and articles)",
+      30
+    ],
+    [
+      "researching and writing at the library (on the way to taking notes on key points from the sources)",
+      0
+    ],
+    [
+      "researching and writing at the library (conversing about conversing about meeting tomorrow to discuss Maria's research on gentrification in low-income communities)",
+      8
+    ],
+    [
+      "researching and writing at the library (taking notes on key points from the sources)",
+      22
+    ],
+    [
+      "researching and writing at the library (organizing his notes and creating an outline for his paper)",
+      20
+    ],
+    [
+      "researching and writing at the library (taking a short break)",
+      10
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (setting up his laptop and materials at his designated study area)",
+      5
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (reviewing his research notes and organizing them)",
+      10
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (reading articles and books related to gentrification)",
+      20
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (taking a break to stretch and get some water)",
+      5
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (outlining his introduction)",
+      15
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (writing the first draft of his introduction)",
+      20
+    ],
+    [
+      "researching and writing at the library (writing the introduction of his paper) (reviewing and editing his introduction)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (looking at the menu and deciding what to order)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to ordering his food)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about conversing about preparations for a Valentine's Day party, including setting up a dessert table, inviting Klaus Mueller and his friends, and discussing the special menu and decorations for the party.)",
+      9
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering his food)",
+      1
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying for his food)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finding a table and sitting down)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (taking out his laptop and research materials)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his lunch while reading and taking notes)",
+      25
+    ],
+    [
+      "researching and writing at the library (setting up his laptop and materials at his designated study spot)",
+      5
+    ],
+    [
+      "researching and writing at the library (reviewing his research question and objectives)",
+      10
+    ],
+    [
+      "researching and writing at the library (on the way to conducting online research on gentrification)",
+      0
+    ],
+    [
+      "researching and writing at the library (conversing about discussing the findings of their research on gentrification in low-income communities and its impact on community cohesion and social networks, sharing insights from their respective studies and research methods)",
+      18
+    ],
+    [
+      "researching and writing at the library (conducting online research on gentrification)",
+      12
+    ],
+    [
+      "researching and writing at the library (taking notes on his research findings)",
+      30
+    ],
+    [
+      "researching and writing at the library (organizing his notes and creating an outline for his paper)",
+      20
+    ],
+    [
+      "researching and writing at the library (taking a break and grabbing a coffee/snack)",
+      15
+    ],
+    [
+      "researching and writing at the library (writing the introduction and background information for his paper) (setting up his laptop and materials at his designated study area)",
+      5
+    ],
+    [
+      "researching and writing at the library (on the way to reviewing his research notes and organizing them)",
+      0
+    ],
+    [
+      "researching and writing at the library (conversing about discussing Klaus bringing friends to Isabella's Valentine's Day party at Hobbs Cafe and coordinating dietary restrictions for the menu)",
+      13
+    ],
+    [
+      "researching and writing at the library (writing the introduction and background information for his paper) (writing the introduction for his paper)",
+      17
+    ],
+    [
+      "researching and writing at the library (writing the introduction and background information for his paper) (taking a short break to stretch and grab a coffee/snack)",
+      10
+    ],
+    [
+      "researching and writing at the library (writing the introduction and background information for his paper) (continuing to write the introduction)",
+      20
+    ],
+    [
+      "researching and writing at the library (reviewing and editing his introduction and background information for his paper)",
+      5
+    ],
+    [
+      "wrapping up and packing up his materials at the library.",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (packing up his laptop and research materials)",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (walking to Hobbs Cafe)",
+      10
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (ordering a coffee and a sandwich)",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (finding a table to sit at)",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (checking his phone for any important messages)",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (taking a sip of his coffee and taking a bite of his sandwich)",
+      10
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (reading a few pages of a book he brought with him)",
+      10
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (finishing his coffee and sandwich)",
+      5
+    ],
+    [
+      "taking a break and grabbing a coffee/snack (throwing away his trash and packing up his things)",
+      5
+    ],
+    [
+      "finishing up any remaining work at the library (reviewing his research paper)",
+      10
+    ],
+    [
+      "finishing up any remaining work at the library (on the way to making final edits to his paper)",
+      0
+    ],
+    [
+      "finishing up any remaining work at the library (conversing about discussing research findings on gentrification's impact on community cohesion and social networks, with a plan to meet tomorrow at 2pm at Hobbs Cafe to share insights on online communities' role during this process.)",
+      5
+    ],
+    [
+      "finishing up any remaining work at the library (making final edits to his paper)",
+      10
+    ],
+    [
+      "finishing up any remaining work at the library (on the way to citing sources and adding references)",
+      0
+    ],
+    [
+      "finishing up any remaining work at the library (conversing about discussing Valentine's Day party preparations, including dietary restrictions and Klaus sharing research findings on gentrification and community cohesion)",
+      13
+    ],
+    [
+      "finishing up any remaining work at the library (citing sources and adding references)",
+      2
+    ],
+    [
+      "finishing up any remaining work at the library (taking a short break)",
+      5
+    ],
+    [
+      "finishing up any remaining work at the library (proofreading his paper)",
+      10
+    ],
+    [
+      "having dinner at the library or at home (packing up his belongings at the library)",
+      5
+    ],
+    [
+      "having dinner at the library or at home (walking to the library cafe or to his car)",
+      5
+    ],
+    [
+      "having dinner at the library or at home (deciding on what to eat for dinner)",
+      10
+    ],
+    [
+      "having dinner at the library or at home (ordering his food)",
+      5
+    ],
+    [
+      "having dinner at the library or at home (waiting for his food to be prepared)",
+      10
+    ],
+    [
+      "having dinner at the library or at home (eating his dinner)",
+      20
+    ],
+    [
+      "having dinner at the library or at home (cleaning up after his meal)",
+      5
+    ],
+    [
+      "either studying or relaxing at home (making a cup of tea)",
+      5
+    ],
+    [
+      "either studying or relaxing at home (reviewing his notes and research for his paper)",
+      30
+    ],
+    [
+      "either studying or relaxing at home (taking a short break to stretch and walk around)",
+      10
+    ],
+    [
+      "either studying or relaxing at home (on the way to writing the introduction for his paper)",
+      0
+    ],
+    [
+      "either studying or relaxing at home (conversing about discussing Maria's research on the role of online communities during gentrification and sharing findings and methods)",
+      7
+    ],
+    [
+      "either studying or relaxing at home (writing the introduction for his paper)",
+      3
+    ],
+    [
+      "either studying or relaxing at home (taking a break to eat a snack)",
+      10
+    ],
+    [
+      "either studying or relaxing at home (researching statistics and data to support his argument)",
+      45
+    ],
+    [
+      "either studying or relaxing at home (taking a break to call his friend and discuss his paper)",
+      15
+    ],
+    [
+      "either studying or relaxing at home (writing the conclusion for his paper)",
+      45
+    ],
+    [
+      "either studying or relaxing at home (reviewing and finalizing his paper)",
+      5
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      -5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up and completing morning routine",
+      60
+    ],
+    [
+      "at the library at Oak Hill College",
+      60
+    ],
+    [
+      "researching and writing at the library",
+      180
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "researching and writing at the library",
+      180
+    ],
+    [
+      "taking a break and grabbing a coffee/snack",
+      60
+    ],
+    [
+      "finishing up any remaining work at the library",
+      60
+    ],
+    [
+      "having dinner at the library or at home",
+      60
+    ],
+    [
+      "either studying or relaxing at home",
+      180
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room sofa",
+  "act_start_time": "February 13, 2023, 20:57:00",
+  "act_duration": 15,
+  "act_description": "either studying or relaxing at home (taking a break to call his friend and discuss his paper)",
+  "act_pronunciatio": "\ud83d\udcf1\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "take",
+    "break"
+  ],
+  "act_obj_description": "in use, possibly with some signs of wear such as wrinkles or stains from Klaus's activities",
+  "act_obj_pronunciatio": "\ud83e\udd14\ud83c\udf54",
+  "act_obj_event": [
+    "common room sofa",
+    "be",
+    "in use"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 342,
+    "Isabella Rodriguez": -450
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

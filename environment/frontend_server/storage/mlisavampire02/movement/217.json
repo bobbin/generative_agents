@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83d\udcf5\ufffdo",
+      "description": "going to sleep, ready to start a new day tomorrow (turning off her phone and putting it on the nightstand) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        31,
+        41
+      ],
+      "pronunciatio": "\ud83d\udd75\ufe0f\ud83d\udc31",
+      "description": "searching for possible victims to feed on (following the target discreetly) @ the Ville:The Willows Market and Pharmacy:store:behind the grocery counter",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcda\ufffd ",
+      "description": "going to bed at 11:00 pm, ready to start a new day tomorrow (reading a book to wind down) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 23:37:00"
+  }
+}

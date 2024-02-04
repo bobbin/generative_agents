@@ -1,0 +1,494 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 10:02:00",
+  "curr_tile": [
+    75,
+    24
+  ],
+  "daily_plan_req": " 1. Wake up and complete the morning routine at 6:00 am. 2. Arrive at Hobbs Cafe and open for business at 8:00 am. 3. Work at the counter, greeting customers and providing excellent service until 8:00 pm. 4. Prepare for the Valentine's Day party, ensuring that everything is set up and ready to go by 5:00 pm. 5. Host the Valentine's Day party from 5:00 pm to 7:00 pm, making sure all customers feel welcome and have a great time. 6. Close Hobbs Cafe at 8:00 pm and head home for the night.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": " Status: Isabella Rodriguez is ready to make Valentine's Day special for her customers at Hobbs Cafe! After a productive day of preparation, she is excited to host a party from 5pm to 7pm. She encourages everyone to stop by the cafe today and join in on the celebration. Isabella wants to ensure that everything runs smoothly, so she will be arriving early to complete her morning routine and open the cafe on time at 8:00 am. With a focus on providing excellent customer service and creating a warm and welcoming atmosphere, Isabella is ready to make this Valentine's Day one to remember!",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 105,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm",
+    "prepare for the Valentine's Day party at Hobbs Cafe tomorrow",
+    "interact with customers and make sure they have a great experience at the cafe",
+    "plan out the logistics of the party and make sure everything is ready for the event tomorrow",
+    "clean up and close the cafe at 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (waking up and stretching)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (washing her face and brushing her teeth)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (getting dressed in her cafe uniform)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (making breakfast and coffee)",
+      15
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (checking her schedule and to-do list for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (packing her bag with essentials for the day)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (double-checking that she has everything she needs before leaving for Hobbs Cafe)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe (locking up her apartment and heading to Hobbs Cafe)",
+      5
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (greeting customers as they enter the cafe)",
+      10
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (taking orders and providing recommendations to customers)",
+      15
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (preparing and serving drinks to customers)",
+      10
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (preparing and serving food to customers)",
+      10
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (checking in with customers to ensure they are satisfied with their orders)",
+      5
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe (handling any customer inquiries or issues that may arise)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (setting up the cafe for the day, turning on lights, and checking inventory)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (brewing fresh coffee and preparing pastries for display)",
+      15
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (checking the reservation book for any special events or parties scheduled for the day)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (organizing the seating area and ensuring tables are clean and set up for customers)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (turning on the open sign and unlocking the doors for customers to enter)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter (greeting customers as they enter the cafe and providing excellent service)",
+      15
+    ],
+    [
+      "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration (greeting customers as they enter the cafe)",
+      15
+    ],
+    [
+      "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration (taking orders and ensuring accuracy)",
+      15
+    ],
+    [
+      "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration (checking in with customers to see if they need anything else)",
+      15
+    ],
+    [
+      "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration (thanking customers for their visit and inviting them to come back)",
+      15
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (reviewing the guest list for the party)",
+      10
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (confirming the food and drink menu for the event)",
+      15
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (checking the decorations and ensuring they are set up properly)",
+      10
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (coordinating with any entertainment or special activities planned for the party)",
+      15
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (making a final checklist of tasks to be completed before the event)",
+      10
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (greeting customers as they enter the cafe)",
+      10
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (taking orders and ensuring accuracy)",
+      10
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (serving food and drinks to customers)",
+      15
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (checking in with customers to ensure they are satisfied with their experience)",
+      10
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (handling any customer complaints or issues with a positive attitude)",
+      10
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe (thanking customers for visiting and inviting them to return)",
+      5
+    ],
+    [
+      "taking a short break to eat lunch and recharge before the busy afternoon",
+      60
+    ],
+    [
+      "back at work, greeting customers and ensuring they have a great experience at the cafe. She is also finalizing the preparations for the Valentine's Day party",
+      60
+    ],
+    [
+      "finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go",
+      60
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe",
+      60
+    ],
+    [
+      "getting ready for the Valentine's Day party, ensuring that everything is in place for the event",
+      60
+    ],
+    [
+      "hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time",
+      60
+    ],
+    [
+      "still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time",
+      60
+    ],
+    [
+      "wrapping up the Valentine's Day party and starting to clean up the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration",
+      60
+    ],
+    [
+      "heading home after a successful Valentine's Day celebration at Hobbs Cafe. She is looking forward to a well-deserved rest after a busy day",
+      120
+    ],
+    [
+      "heading to bed after a successful Valentine's Day celebration at Hobbs Cafe. She is looking forward to a well-deserved rest after a busy day",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing her morning routine. She is getting ready to start her day at Hobbs Cafe",
+      60
+    ],
+    [
+      "working at the counter, greeting customers, and providing excellent service at Hobbs Cafe",
+      60
+    ],
+    [
+      "opening Hobbs Cafe for business and starting her day at work. She is greeting customers and providing excellent service at the counter",
+      60
+    ],
+    [
+      "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration",
+      60
+    ],
+    [
+      "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow",
+      60
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe",
+      60
+    ],
+    [
+      "taking a short break to eat lunch and recharge before the busy afternoon",
+      60
+    ],
+    [
+      "back at work, greeting customers and ensuring they have a great experience at the cafe. She is also finalizing the preparations for the Valentine's Day party",
+      60
+    ],
+    [
+      "finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go",
+      60
+    ],
+    [
+      "continuing to interact with customers and provide excellent service at Hobbs Cafe. She is ensuring that everyone feels welcome and valued as they enjoy their time at the cafe",
+      60
+    ],
+    [
+      "getting ready for the Valentine's Day party, ensuring that everything is in place for the event",
+      60
+    ],
+    [
+      "hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time",
+      60
+    ],
+    [
+      "still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time",
+      60
+    ],
+    [
+      "wrapping up the Valentine's Day party and starting to clean up the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration",
+      60
+    ],
+    [
+      "heading home after a successful Valentine's Day celebration at Hobbs Cafe. She is looking forward to a well-deserved rest after a busy day",
+      120
+    ],
+    [
+      "heading to bed after a successful Valentine's Day celebration at Hobbs Cafe. She is looking forward to a well-deserved rest after a busy day",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 14, 2023, 10:00:00",
+  "act_duration": 10,
+  "act_description": "planning out the logistics of the Valentine's Day party and ensuring everything is ready for the event tomorrow (reviewing the guest list for the party)",
+  "act_pronunciatio": "\ud83d\udc40\ud83d\udcc3",
+  "act_event": [
+    "Isabella Rodriguez",
+    "review",
+    "guest list"
+  ],
+  "act_obj_description": "cluttered with papers, sticky notes, and a laptop open to a spreadsheet of the guest list for the Valentine's Day party",
+  "act_obj_pronunciatio": "\ufffd p",
+  "act_obj_event": [
+    "desk",
+    "desk",
+    "is"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      75,
+      22
+    ],
+    [
+      75,
+      21
+    ],
+    [
+      75,
+      20
+    ],
+    [
+      75,
+      19
+    ],
+    [
+      76,
+      19
+    ],
+    [
+      77,
+      19
+    ],
+    [
+      78,
+      19
+    ],
+    [
+      78,
+      18
+    ],
+    [
+      78,
+      17
+    ],
+    [
+      78,
+      16
+    ],
+    [
+      77,
+      16
+    ],
+    [
+      76,
+      16
+    ],
+    [
+      75,
+      16
+    ],
+    [
+      74,
+      16
+    ],
+    [
+      73,
+      16
+    ]
+  ]
+}

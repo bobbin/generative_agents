@@ -45,7 +45,8 @@ def execute(persona, maze, personas, plan):
     print ('aldhfoaf/????')
     print (plan)
 
-    if "<persona>" in plan: 
+    if "<persona>" in plan:
+      print("persona") 
       # Executing persona-persona interaction.
       target_p_tile = (personas[plan.split("<persona>")[-1].strip()]
                        .scratch.curr_tile)

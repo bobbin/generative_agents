@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\u2615\ufe0f\ud83d\ude0a",
+      "description": "interacting with customers and making sure they have a great experience at the cafe\n[(ID:8bNQrT) Tuesday February 14 -- 10:00 AM] Activity: Isabella is planning out the logistics of the Valentine's Day party and making sure everything is ready for the event tomorrow\n[(ID:QnGd5z) Tuesday February 14 -- 11:00 AM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:4RmUfJ) Tuesday February 14 -- 12:00 PM] Activity: Isabella is taking a short break to eat lunch and recharge before the busy afternoon\n[(ID:OQJ2Jp) Tuesday February 14 -- 01:00 PM] Activity: Isabella is back at work, greeting customers and ensuring they have a great experience at the cafe\n[(ID:zH1O5o) Tuesday February 14 -- 02:00 PM] Activity: Isabella is finalizing the preparations for the Valentine's Day party, making sure everything is set up and ready to go\n[(ID:7YnA7e) Tuesday February 14 -- 03:00 PM] Activity: Isabella is continuing to interact with customers and provide excellent service at Hobbs Cafe\n[(ID:Zj2Jr6) Tuesday February 14 -- 04:00 PM] Activity: Isabella is getting ready for the Valentine's Day party, ensuring that everything is in place for the event\n[(ID:RnGd5p) Tuesday February 14 -- 05:00 PM] Activity: Isabella is hosting the Valentine's Day party at Hobbs Cafe, making sure all customers feel welcome and have a great time\n[(ID:6RmUfL) Tuesday February 14 -- 06:00 PM] Activity: Isabella is still hosting the Valentine's Day party, ensuring that everything runs smoothly and everyone has a good time\n[(ID:LPJ2Jo) Tuesday February 14 -- 07:00 PM] Activity: Isabella is wrapping up the Valentine's Day party and starting to clean up the cafe\n[(ID:0QJ2Jk) Tuesday February 14 -- 08:00 PM] Activity: Isabella is closing Hobbs Cafe for the night and heading home after a successful Valentine's Day celebration (greeting customers as they enter the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        54
+      ],
+      "pronunciatio": "\u2600\ufe0f\ufffd",
+      "description": "waking up and completing her morning routine at 9:00 PM\n[(ID:lmn456) Tuesday February 14 -- 10:00 AM] Activity: Maria is going to Oak Hill College for her physics class\n[(ID:opq789) Tuesday February 14 -- 11:00 AM] Activity: Maria is studying physics at Oak Hill College\n[(ID:rst012) Tuesday February 14 -- 12:00 PM] Activity: Maria is studying physics at Oak Hill College\n[(ID:uvw345) Tuesday February 14 -- 01:00 PM] Activity: Maria is studying at Hobbs Cafe and having lunch\n[(ID:xyz678) Tuesday February 14 -- 02:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:abc901) Tuesday February 14 -- 03:00 PM] Activity: Maria is studying at Hobbs Cafe\n[(ID:def234) Tuesday February 14 -- 04:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:ghi567) Tuesday February 14 -- 05:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:jkl890) Tuesday February 14 -- 06:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:mno123) Tuesday February 14 -- 07:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:pqr456) Tuesday February 14 -- 08:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:stu789) Tuesday February 14 -- 09:00 PM] Activity: Maria is searching for possible victims to feed on\n[(ID:vwx012) Tuesday February 14 -- 10:00 PM] Activity: Maria is feeding on blood from a friend or neighbor\n[(ID:yza345) Tuesday February 14 -- 11:00 PM] Activity: Maria is Twitch streaming or gaming\n[(ID:bcd678) Tuesday February 14 -- 12:00 AM] Activity: Maria is Twitch streaming or gaming (waking up and stretching) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd\ud83d\udc40",
+      "description": "continuing to work on his research project at the Oak Hill College library. He is deep in thought and focused on his work.\n[(ID:9mR8Jf) Tuesday February 14 -- 10:00 AM] Activity: Klaus is still at the library, making progress on his research paper. He is feeling motivated and inspired by the topic.\n[(ID:q8d7J2) Tuesday February 14 -- 11:00 AM] Activity: Klaus is taking a short break from his research to stretch and grab a quick snack. He is feeling determined to finish his work before his meeting with Maria Lopez.\n[(ID:Jn4Rf3) Tuesday February 14 -- 12:00 PM] Activity: Klaus is having a working lunch with Maria Lopez at Hobbs Cafe. They are discussing their research project and exchanging ideas and insights.\n[(ID:5mR8J4) Tuesday February 14 -- 01:00 PM] Activity: Klaus is back at the Oak Hill College library, continuing to work on his research paper. He is feeling productive and focused.\n[(ID:q8d7J5) Tuesday February 14 -- 02:00 PM] Activity: Klaus is deep in research, analyzing data and writing his findings. He is fully immersed in his work and making good progress.\n[(ID:Jn4Rf6) Tuesday February 14 -- 03:00 PM] Activity: Klaus is taking a short break to grab a coffee and recharge. He is feeling energized and ready to dive back into his research.\n[(ID:5mR8J7) Tuesday February 14 -- 04:00 PM] Activity: Klaus is back at his desk, continuing to work on his research paper. He is determined to finish strong and meet his deadline.\n[(ID:q8d7J8) Tuesday February 14 -- 05:00 PM] Activity: Klaus is wrapping up his work for the day and preparing to head home. He is feeling accomplished and satisfied with his progress.\n[(ID:Jn4Rf9) Tuesday February 14 -- 06:00 PM] Activity: Klaus is having dinner and relaxing after a productive day of research. He is enjoying a well-deserved break before continuing his work tomorrow.\n[(ID:5mR8J10) Tuesday February 14 -- 07:00 PM] Activity: Klaus is unwinding and reflecting on his day. He is feeling grateful for the opportunity to pursue his passion for social justice and research.\n[(ID:q8d7J11) Tuesday February 14 -- 08:00 PM] Activity: Klaus is reviewing his notes and preparing for his meeting with Maria Lopez tomorrow. He is excited to continue working on their research project and making a difference in their community.\n[(ID:Jn4Rf12) Tuesday February 14 -- 09:00 PM] Activity: Klaus is winding down for the evening, getting ready for bed and reflecting on the day's accomplishments. He is looking forward to another productive day tomorrow (reviewing his research notes) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:03:00"
+  }
+}
